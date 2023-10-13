@@ -13,7 +13,7 @@ Program that, given a dictionary of words, will predict a valid word based off o
 
 # How to Run
 
-Main file: A2Test.java.
+Main file: A2Test.java<br>
 Args: dictionary txt file
 
 ## Command line input
