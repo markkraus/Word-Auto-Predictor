@@ -18,7 +18,7 @@ Args: dictionary txt file
 
 ## Command line input
 
-javac A2Test.java
-javac AutoComplete.java
-
+javac A2Test.java<br>
+javac AutoComplete.java<br>
+<br>
 java A2Test dict8.txt      - [can substitute dict8.txt with small.txt to see how a smaller dictionary of letters works]
