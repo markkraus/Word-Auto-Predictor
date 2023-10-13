@@ -3,13 +3,13 @@ Program that, given a dictionary of words, will predict a valid word based off o
 
 # Files in this repository
 
-*launch.json*: File for debugging purposes.
-*a2.md*: Github markdown file explaining how I implemented each method in AutoComplete.java, as well as time complexity for each method.
-*A2Test.java*: Main method used to run the program.
-*AutoComplete.java*: Methods that perform fundamental word predicting properties.
-*AutoCompleteInterface.java*: Interface explaining how each method operates in AutoComplete.java.
-*dict8.txt*: Full-scale dictionary of words.
-*small.txt*: Smaller set of words that acts as a dictionary of words.
+*launch.json*: File for debugging purposes. <br>
+*a2.md*: Github markdown file explaining how I implemented each method in AutoComplete.java, as well as time complexity for each method.<br>
+*A2Test.java*: Main method used to run the program.<br>
+*AutoComplete.java*: Methods that perform fundamental word predicting properties.<br>
+*AutoCompleteInterface.java*: Interface explaining how each method operates in AutoComplete.java.<br>
+*dict8.txt*: Full-scale dictionary of words.<br>
+*small.txt*: Smaller set of words that acts as a dictionary of words.<br>
 
 # How to Run
 
