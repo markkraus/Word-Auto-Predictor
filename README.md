@@ -1,3 +1,6 @@
+# Repository Guide
+Link: <br>
+
 # Word-Auto-Predictor
 - De La Briandais Trie<br>
 - StringBuilders<br>
