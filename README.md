@@ -1,5 +1,8 @@
 # Repository Guide
-Link: <br>
+Link: https://drive.google.com/file/d/1kW4sPa7B4aA-cd3_iOwqlK5JUlZNz_kZ/view?usp=drive_link<br>
+
+## Project Documentation
+https://github.com/cs1501-2241/cs1501-assignment-2-markkraus<br>
 
 # Word-Auto-Predictor
 - De La Briandais Trie<br>
